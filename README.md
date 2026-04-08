@@ -1,4 +1,4 @@
-**# 🌤 C# Weather App
+# 🌤 C# Weather App
 
 A simple and attractive **Weather Application** built with **C# WinForms**.  
 It fetches real-time weather information for any city using the **OpenWeatherMap API**.
@@ -25,4 +25,4 @@ It fetches real-time weather information for any city using the **OpenWeatherMap
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Apsara770/CSharpWeatherApp.git**
+git clone https://github.com/Apsara770/CSharpWeatherApp.git
